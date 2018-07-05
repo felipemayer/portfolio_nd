@@ -29,7 +29,7 @@ h1{
 }
 
 h2{
-	font: 20px Arial, Helvetica, sans-serif;
+	font: 24px Arial, Helvetica, sans-serif;
 	color: #000000;
 }
 
@@ -103,6 +103,7 @@ footer{
 	justify-content: space-around;
 	background-color: #808080;
 }
+
 footer p{
 	font: 16px Arial, Helvetica, sans-serif;
 	color: #ffffff
@@ -116,7 +117,7 @@ footer p{
 
 	#title{
 		width: 100%;
-		padding: 10px 40px;
+		padding: 30px 40px;
 	}
 
 	#title img{
@@ -126,6 +127,10 @@ footer p{
 
 	#header_image{
 		width: 100%;
+	}
+
+	article p{
+		font-size: 22px;
 	}
 }
 
@@ -137,5 +142,4 @@ footer p{
 	h3{
 		font-size: 30px;
 	}
-
 }
